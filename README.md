@@ -2,6 +2,5 @@
 
 ```sh
 # deno
-deno task test
-# Promise basic #4 will fail
+deno task test # Promise basic #4 will fail
 ```
