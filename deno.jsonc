@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "chai": "npm:chai@4.3.7"
+  },
+  "tasks": {
+    "test": "deno run --allow-read --allow-env npm:mocha@10.2.0 promise.test.mjs"
+  }
+}
