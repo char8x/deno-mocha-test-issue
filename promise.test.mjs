@@ -82,6 +82,7 @@ describe('Promise questions', () => {
     })
   });
 
+  // TODO: Deno execution will fail, but Node execution results are normal.
   describe("Promise basic #4", () => {
     it(' test ', function (done) {
       function exec() {
